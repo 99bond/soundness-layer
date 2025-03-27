@@ -1,0 +1,4 @@
+sudo apt install libssl-dev
+sudo apt install pkg-config -y
+
+It works in Ubuntu 24.04.2LTS
